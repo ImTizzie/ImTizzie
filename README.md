@@ -1,17 +1,22 @@
 ### Hey! 👋
 
-My name is **Xchel Diaz** and I'm currently a **Senior Computer Science student** at **Texas A&M University**!
+My name is **Xchel Diaz** and I'm currently a **Senior Software Engineer** at **Capital One**!
 
-This fall (_assuming it all goes well_), I should be receiving my:
+I graduated from Texas A&M University in 2021 with my:
 - 📜 🖥️ BS in **Computer Science**
 - 📃 🔐 Minor in **Cybersecurity**
 - 📃 🎮 Minor in **Game Design and Development**
 - 📄 🗺️ **International Engineering Certification**
 
-I worked this summer for **Capital One** as a **Software Engineering Intern** and I'm currently learning about cloud computing and human computer interaction, practicing some Leetcode, and working on a _very secret_ project sponsored by **National Instruments**. I'll also be attending both the **Grace Hopper Celebration of Women in Computing** and **Richard Tapia Celebration of Diversity in Computing** conferences later this year!
+There's nothing crazy happening in my life right now, nor anything too interesting. This year I'll see about going to _Paris_ to watch the **Valorant Champions Tournament** live, as well as going to _Vegas_ to attend **EVO 2025**.
+
+Otherwise, I like pretty much all the normal stuff: books, music, movies, etc. But I do _especially_ like video games and all sorts of tech-y stuff.
 
 <p align="center">
   <img src="https://c.tenor.com/0ygiqFaX-ssAAAAM/bongo-cat-typing.gif" />
+</p>
+<p align="center">
+  <i>this is me if you even care</i>
 </p>
 
 <!--
